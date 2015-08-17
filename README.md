@@ -5,7 +5,7 @@ SlackのIncoming WebHooksを発行して
 
 # アクションの設定
 
-- デフォルトの件名
+ - デフォルトの件名
  ```
  ** PROBLEM alert - {HOST.NAME} / {TRIGGER.NAME} is CRITICAL **
  ```
