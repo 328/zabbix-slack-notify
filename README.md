@@ -1,4 +1,4 @@
-# zabbix_for_slack_notify
+# zabbix-slack-notify
 
 SlackのIncoming WebHooksを発行して
 スクリプト内のslack_urlに入れてください
